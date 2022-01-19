@@ -32,7 +32,7 @@ disqusShortname = ""
   # Navigation Section
   # TODO: Remove params
   [params.navigation]
-    title = "The DevOps Toolkit Series B"
+    title = "The DevOps Toolkit Series C"
     subtitle = "By Viktor Farcic"
     menu = "Menu"
     # Optional logo as brand stored in img/
